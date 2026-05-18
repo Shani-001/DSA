@@ -1,5 +1,6 @@
 public class Datatypes{
     public static void main(String args[]){
+        //Datatypes are classifications that specify the kind of value a variable can hold and the operations that can be performed on it.
         //primitive Datatypes which are already defined in java
 
         // 1 Byte=8 Bits and 1 Bit= we can store values like 1 or 0 only into this

@@ -19,7 +19,7 @@ public class Input{
     */
 //    boolean a1=sc.nextBoolean();
 //    System.out.print(a1);
-
+//After taking value it prints the value in small letter like if i give input as FALSE then output will be false 
 
    float bb=sc.nextFloat();
    float product=3.14f*bb*bb;  //always write f with floating values because compiler take it by default as double and when you store it in float then it gives error
