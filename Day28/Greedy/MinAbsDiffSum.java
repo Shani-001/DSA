@@ -13,5 +13,7 @@ public class MinAbsDiffSum{
             sum+=Math.abs(A[i]-(double)B[i]);
         }
         System.out.println(sum);
+
+
     }
 }
